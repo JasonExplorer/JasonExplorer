@@ -9,7 +9,7 @@
 
 ### 技能
 
-- 编程语言：Python, Java
+- 编程语言：Python, Java, C++
 - 前端开发：React, Vue.js
 - 后端开发：Spring, Django
 - 数据库：MySQL, MongoDB
