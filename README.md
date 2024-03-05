@@ -9,8 +9,8 @@
 
 ### 技能
 
-- 编程语言：Python, Java, C++
-- 前端开发：React, Vue.js
+- 编程语言：Java, Python, C++
+- 前端开发：Vue.js, React,
 - 后端开发：Spring, Django
 - 数据库：MySQL, MongoDB
 - 其他技能：Docker, Kubernetes, CI/CD
