@@ -15,10 +15,7 @@
 - 数据库：MySQL, MongoDB
 - 其他技能：Docker, Kubernetes, CI/CD
 
-### 项目
 
-- 构建中
-- 
 ### 我的 GitHub 统计
 
 [![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=JasonExplorer&show_icons=true&theme=radical)](https://github.com/JasonExplorer)
